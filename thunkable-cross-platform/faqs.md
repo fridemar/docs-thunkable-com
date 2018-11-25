@@ -16,5 +16,5 @@ Public projects are included in the Thunkable Public Gallery for anyone to previ
 
 Private projects can only be shared with other PRO users. Please note: If you share your project with another PRO user, they have the ability to make the project public.
 
-\*\*\*\*
+\*\*\*\*\*
 
